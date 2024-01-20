@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Survey</title>
+</head>
+<body>
+    Hello world
+<form action=""></form>
+    <div class="form-control">
+        <label for="name">Your name</label>
+        <input type="text" name="name" id="name" placeholder="Fill your name">
+        
+    </div>
+    <div class="form-control">
+        <label for="email">Your email</label>
+        <input type="email" name="email" id="email" placeholder="Fill your email">
+        
+    </div>
+    <div class="form-control">
+        <label for="age">Your age</label>
+        <input type="number" name="age" id="age" placeholder="Fill your age">
+        
+    </div>
+    <div class="form-control">
+        <label for="role" id="label-role">Your roler</label>
+        <select name="role" id="role">
+            <option value="student">Student</option>
+            <option value="teacher">Teacher</option>
+            <option value="other">Other</option>
+            <option value="professor">Professor</option>
+        </select>
+        
+    </div>
+    <div class="form-control">
+        <label for="recomand">Would you like to recomand IT club for your friend?</label>
+        <br>
+        <label for="recomand1">
+            <input type="radio" name="recomand" id="recomand1">Yes
+        </label>
+        <label for="recomand2">
+            <input type="radio" name="recomand" id="recomand2">Yes of course
+        </label>
+        <label for="recomand3">
+            <input type="radio" name="recomand" id="recomand3">Maybe
+        </label>
+    </div>
+
+    <div class="form-control">
+        <label for="coment">Discribe your self</label>
+        <br>
+        <textarea name="" id="" cols="30" rows="10"></textarea>
+
+    </div>
+    <button type="submit" value="submit">Submit</button>
+</form>
+</body>
+</html>
+
+<style>
+    body{
+        text-align: center;
+        
+    }
+
+    form{
+        margin: 10px;
+        padding: 30px 20px;
+    }
+
+    .form-control{
+        text-align: left;
+        margin-bottom: 20px;
+    }
+</style>
