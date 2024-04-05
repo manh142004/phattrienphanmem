@@ -1,0 +1,97 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: url('/img/login.jpg') no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.container{
+    width: 420px;
+    background: transparent;
+    border: 2px solid rgb(117, 136, 136);
+    backdrop-filter: blur(20px);
+    box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+    color: aliceblue;
+    border-radius: 10px;
+    padding: 30px 40px;
+}
+
+.container h2{
+    font-size: 36px;
+    text-align: center;
+}
+
+.container .input-box{
+    position: relative;
+    width: 100%;
+    height: 50px;
+    /* background: salmon; */
+    margin: 30px 0;
+}
+
+.input-box input{
+    width: 100%;
+    height: 100%;
+    background: transparent;
+    border: none;
+    outline: none;
+    border: 2px solid rgb(117, 136, 136);
+    border-radius: 40px;
+    font-size: 16px;
+    color: aliceblue;
+    padding: 20px 45px 20px 20px;
+}
+
+.input-box input::placeholder{
+    color: aliceblue;
+}
+
+.input-box .material-symbols-outlined{
+    position: absolute;
+    right: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 20px;
+
+}
+
+.container button{
+    width: 100%;
+    height: 45px;
+    background: aliceblue;
+    border: none;
+    outline: none;
+    border-radius: 40px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .1);
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 600;
+    color: #333;
+}
+
+.container .register-link{
+    font-size: 15px;
+    text-align: center;
+    margin: 20px 0 15px;
+}
+
+.register-link p a{
+    color: aliceblue;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.register-link p a:hover{
+    text-decoration: underline;
+}
