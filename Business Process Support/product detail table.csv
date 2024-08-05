@@ -1,0 +1,51 @@
+ProductID,ProductName,Description,Price,ProductGroupID,Manufacturer,WarrantyPeriod,StockQuantity,ReorderLevel,CreatedAt,UpdatedAt
+1,Smartphone A,High-performance smartphone with 128GB storage,699.99,1,Brand A,2 years,150,20,2023-01-01 10:00:00,2023-01-05 10:00:00
+2,Laptop B,Lightweight laptop with 16GB RAM and 512GB SSD,999.99,2,Brand B,1 year,80,15,2023-02-01 11:00:00,2023-02-05 11:00:00
+3,Tablet C,10-inch tablet with stylus support,299.99,3,Brand C,1 year,200,30,2023-03-01 12:00:00,2023-03-05 12:00:00
+4,Smartwatch D,Smartwatch with heart rate monitor,199.99,4,Brand D,2 years,250,40,2023-04-01 13:00:00,2023-04-05 13:00:00
+5,Headphones E,Noise-cancelling over-ear headphones,149.99,5,Brand E,1 year,300,50,2023-05-01 14:00:00,2023-05-05 14:00:00
+6,Camera F,DSLR camera with 24MP sensor,799.99,6,Brand F,2 years,60,10,2023-06-01 15:00:00,2023-06-05 15:00:00
+7,Monitor G,27-inch 4K UHD monitor,399.99,7,Brand G,1 year,120,20,2023-07-01 16:00:00,2023-07-05 16:00:00
+8,Printer H,Wireless color inkjet printer,129.99,8,Brand H,1 year,90,15,2023-08-01 17:00:00,2023-08-05 17:00:00
+9,Router I,Wi-Fi 6 router with high speed,199.99,9,Brand I,2 years,110,20,2023-09-01 18:00:00,2023-09-05 18:00:00
+10,Smart TV J,55-inch 4K Smart TV,899.99,10,Brand J,1 year,75,10,2023-10-01 19:00:00,2023-10-05 19:00:00
+11,Smartphone K,Mid-range smartphone with 64GB storage,499.99,1,Brand A,2 years,200,25,2023-01-02 10:00:00,2023-01-06 10:00:00
+12,Laptop L,Gaming laptop with RTX 3060,1399.99,2,Brand B,1 year,50,10,2023-02-02 11:00:00,2023-02-06 11:00:00
+13,Tablet M,8-inch tablet with 32GB storage,199.99,3,Brand C,1 year,150,20,2023-03-02 12:00:00,2023-03-06 12:00:00
+14,Smartwatch N,Stylish smartwatch with fitness tracker,249.99,4,Brand D,2 years,180,25,2023-04-02 13:00:00,2023-04-06 13:00:00
+15,Headphones O,Bluetooth headphones with 30 hours battery,99.99,5,Brand E,1 year,300,45,2023-05-02 14:00:00,2023-05-06 14:00:00
+16,Camera P,Compact camera with 20MP sensor,499.99,6,Brand F,2 years,70,15,2023-06-02 15:00:00,2023-06-06 15:00:00
+17,Monitor Q,Curved 32-inch gaming monitor,599.99,7,Brand G,1 year,90,20,2023-07-02 16:00:00,2023-07-06 16:00:00
+18,Printer R,Compact photo printer,89.99,8,Brand H,1 year,150,25,2023-08-02 17:00:00,2023-08-06 17:00:00
+19,Router S,Mesh Wi-Fi system for large homes,299.99,9,Brand I,2 years,60,10,2023-09-02 18:00:00,2023-09-06 18:00:00
+20,Smart TV T,65-inch OLED Smart TV,1299.99,10,Brand J,1 year,40,5,2023-10-02 19:00:00,2023-10-06 19:00:00
+21,Smartphone U,Flagship smartphone with 256GB storage,999.99,1,Brand A,2 years,100,15,2023-01-03 10:00:00,2023-01-07 10:00:00
+22,Laptop V,2-in-1 convertible laptop,799.99,2,Brand B,1 year,70,10,2023-02-03 11:00:00,2023-02-07 11:00:00
+23,Tablet W,12-inch tablet with 128GB storage,399.99,3,Brand C,1 year,120,20,2023-03-03 12:00:00,2023-03-07 12:00:00
+24,Smartwatch X,Health-focused smartwatch with GPS,299.99,4,Brand D,2 years,150,25,2023-04-03 13:00:00,2023-04-07 13:00:00
+25,Headphones Y,Wireless earbuds with noise cancellation,129.99,5,Brand E,1 year,250,30,2023-05-03 14:00:00,2023-05-07 14:00:00
+26,Camera Z,Action camera with 4K video capability,349.99,6,Brand F,2 years,80,15,2023-06-03 15:00:00,2023-06-07 15:00:00
+27,Monitor AA,24-inch Full HD monitor,199.99,7,Brand G,1 year,150,20,2023-07-03 16:00:00,2023-07-07 16:00:00
+28,Printer BB,All-in-one printer with scanning capabilities,159.99,8,Brand H,1 year,100,15,2023-08-03 17:00:00,2023-08-07 17:00:00
+29,Router CC,High-performance gaming router,249.99,9,Brand I,2 years,90,10,2023-09-03 18:00:00,2023-09-07 18:00:00
+30,Smart TV DD,50-inch Smart TV with voice control,699.99,10,Brand J,1 year,110,20,2023-10-03 19:00:00,2023-10-07 19:00:00
+31,Smartphone EE,Affordable smartphone with good camera,299.99,1,Brand A,2 years,200,30,2023-01-04 10:00:00,2023-01-08 10:00:00
+32,Laptop FF,High-performance business laptop,1199.99,2,Brand B,1 year,60,10,2023-02-04 11:00:00,2023-02-08 11:00:00
+33,Tablet GG,Kids tablet with parental controls,149.99,3,Brand C,1 year,250,40,2023-03-04 12:00:00,2023-03-08 12:00:00
+34,Smartwatch HH,Durable smartwatch for outdoor activities,349.99,4,Brand D,2 years,100,15,2023-04-04 13:00:00,2023-04-08 13:00:00
+35,Headphones II,Studio-quality headphones for audiophiles,249.99,5,Brand E,1 year,80,10,2023-05-04 14:00:00,2023-05-08 14:00:00
+36,Camera JJ,Mirrorless camera with interchangeable lenses,1099.99,6,Brand F,2 years,50,5,2023-06-04 15:00:00,2023-06-08 15:00:00
+37,Monitor KK,Ultra-wide 34-inch monitor,799.99,7,Brand G,1 year,40,5,2023-07-04 16:00:00,2023-07-08 16:00:00
+38,Printer LL,High-speed laser printer,249.99,8,Brand H,1 year,70,10,2023-08-04 17:00:00,2023-08-08 17:00:00
+39,Router MM,4G LTE router for mobile connectivity,199.99,9,Brand I,2 years,90,15,2023-09-04 18:00:00,2023-09-08 18:00:00
+40,Smart TV NN,Smart TV with built-in streaming services,799.99,10,Brand J,1 year,60,10,2023-10-04 19:00:00,2023-10-08 19:00:00
+41,Smartphone OO,Compact smartphone with 32GB storage,199.99,1,Brand A,2 years,300,50,2023-01-05 10:00:00,2023-01-09 10:00:00
+42,Laptop PP,Performance laptop for graphic design,1399.99,2,Brand B,1 year,40,5,2023-02-05 11:00:00,2023-02-09 11:00:00
+43,Tablet QQ,Stylish tablet with 64GB storage,249.99,3,Brand C,1 year,150,20,2023-03-05 12:00:00,2023-03-09 12:00:00
+44,Smartwatch RR,Smartwatch with customizable watch faces,199.99,4,Brand D,2 years,200,30,2023-04-05 13:00:00,2023-04-09 13:00:00
+45,Headphones SS,Premium wireless headphones with long battery life,299.99,5,Brand E,1 year,100,15,2023-05-05 14:00:00,2023-05-09 14:00:00
+46,Camera TT,Professional camera with high ISO performance,1499.99,6,Brand F,2 years,30,5,2023-06-05 15:00:00,2023-06-09 15:00:00
+47,Monitor UU,27-inch gaming monitor with high refresh rate,499.99,7,Brand G,1 year,70,10,2023-07-05 16:00:00,2023-07-09 16:00:00
+48,Printer VV,Portable printer for on-the-go printing,99.99,8,Brand H,1 year,200,30,2023-08-05 17:00:00,2023-08-09 17:00:00
+49,Router WW,Enterprise-grade router for business use,499.99,9,Brand I,2 years,40,5,2023-09-05 18:00:00,2023-09-09 18:00:00
+50,Smart TV XX,75-inch Smart TV with surround sound,1999.99,10,Brand J,1 year,20,5,2023-10-05 19:00:00,2023-10-09 19:00:00
